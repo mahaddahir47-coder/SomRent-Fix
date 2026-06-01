@@ -1,0 +1,6 @@
+{
+  "name": "SomRent Fix",
+  "description": "Bilingual mobile-first maintenance staff app for technicians, caretakers, and supervisors in Somalia, optimizing jobs, photos, cost tracking, and repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
